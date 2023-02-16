@@ -1,0 +1,10 @@
+C:\Users\msilbernagel\source\repos\Progamming Assignment 2\Progamming Assignment 2\bin\Debug\Progamming Assignment 2.exe.config
+C:\Users\msilbernagel\source\repos\Progamming Assignment 2\Progamming Assignment 2\bin\Debug\Progamming Assignment 2.exe
+C:\Users\msilbernagel\source\repos\Progamming Assignment 2\Progamming Assignment 2\bin\Debug\Progamming Assignment 2.pdb
+C:\Users\msilbernagel\source\repos\Progamming Assignment 2\Progamming Assignment 2\obj\Debug\Progamming Assignment 2.csprojAssemblyReference.cache
+C:\Users\msilbernagel\source\repos\Progamming Assignment 2\Progamming Assignment 2\obj\Debug\Progamming_Assignment_2.Form1.resources
+C:\Users\msilbernagel\source\repos\Progamming Assignment 2\Progamming Assignment 2\obj\Debug\Progamming_Assignment_2.Properties.Resources.resources
+C:\Users\msilbernagel\source\repos\Progamming Assignment 2\Progamming Assignment 2\obj\Debug\Progamming Assignment 2.csproj.GenerateResource.cache
+C:\Users\msilbernagel\source\repos\Progamming Assignment 2\Progamming Assignment 2\obj\Debug\Progamming Assignment 2.csproj.CoreCompileInputs.cache
+C:\Users\msilbernagel\source\repos\Progamming Assignment 2\Progamming Assignment 2\obj\Debug\Progamming Assignment 2.exe
+C:\Users\msilbernagel\source\repos\Progamming Assignment 2\Progamming Assignment 2\obj\Debug\Progamming Assignment 2.pdb
